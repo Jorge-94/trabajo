@@ -39,6 +39,7 @@ main p {
 body {
     font-family: var(--fuente-principal);
     font-size: var(--fontsize);
+    
 }
 
 .container {
@@ -422,7 +423,7 @@ main #ourservices .grid article:last-child{
 
 
 
-
+}
 
 
 
